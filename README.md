@@ -3,10 +3,10 @@
 A collection of Java Stream API examples, organized topic-wise for hands-on learning and interview preparation.
 
 📂 Project Structure
-stream-practice/
- └── src/
-     └── practice/
-         ├── basics/
+stream-practice/                                                                                                        
+ └── src/                                                                                                        
+     └── practice/                                                                                                        
+         ├── basics/                                                                                                        
          │    ├── FilterExample.java                                                                                                    
          │    ├── MapExample.java                                                                                                    
          │    ├── ReduceExample.java                                                                                                    
